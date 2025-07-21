@@ -27,7 +27,8 @@ HTML, CSS
 Algorithms & Data Structures  
 
 ## General Skills  
+**languages**  
 Persian (Native), English (Professional), German (Beginner)
 
 **Interests & Achievements:**  
-Competitive Chess Player, Speedcubing (Rubik's Cube)
+Competitive Chess Player: 1300 ELO rating, Speedcubing (Rubik's Cube) personal best 17 seconds
