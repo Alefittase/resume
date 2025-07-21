@@ -27,4 +27,7 @@ HTML, CSS
 Algorithms & Data Structures  
 
 ## General Skills  
+Persian (Native), English (Professional), German (Beginner)
 
+**Interests & Achievements:**  
+Competitive Chess Player, Speedcubing (Rubik's Cube)
