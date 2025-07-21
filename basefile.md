@@ -5,8 +5,6 @@ Phone: +98 911-359-2080
 GitHub: [Alefittase](https://github.com/Alefittase)
 LinkedIn: [Ali Nasrollahpour](https://www.linkedin.com/in/ali-nasrollahpour-213b33264/)
 Location: Sari, Iran
-## Experience 
-
 ## Education
 **Bachelor of Science in Computer Science**
 Ferdowsi University of Mashhad, Mashhad, Iran  
@@ -18,4 +16,6 @@ Ferdowsi University of Mashhad, Mashhad, Iran
 *2012 - 2024*
 - Selective academy for top-performing students in STEM fields
 - Advanced mathematics and computer science curriculum
-## Technical Skills  
+## Technical Skills 
+
+## General Skills  
