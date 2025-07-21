@@ -16,6 +16,15 @@ Ferdowsi University of Mashhad, Mashhad, Iran
 *2012 - 2024*
 - Selective academy for top-performing students in STEM fields
 - Advanced mathematics and computer science curriculum
-## Technical Skills 
+## Technical Skills
+**Programming Languages:**  
+C++, C, Java, Python, PHP  
+
+**Web Technologies:**  
+HTML, CSS  
+
+**Computer Science Fundamentals:**  
+Algorithms & Data Structures  
 
 ## General Skills  
+
